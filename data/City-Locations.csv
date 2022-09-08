@@ -1,0 +1,99 @@
+geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_name,subdivision_1_iso_code,subdivision_1_name,subdivision_2_iso_code,subdivision_2_name,city_name,metro_code,time_zone,is_in_european_union
+1392,en,AS,Asia,IR,Iran,2,Māzandarān,,,Shahr,,Asia/Tehran,0
+5819,en,EU,Europe,CY,Cyprus,2,Limassol District,,,Souni,,Asia/Nicosia,1
+7240,en,AS,Asia,IR,Iran,28,North Khorasan,,,Jahan,,Asia/Tehran,0
+2158177,en,AS,Asia,IR,Iran,26,Qazvin Province,,,Kaman,,Asia/Tehran,0
+11797,en,AS,Asia,IR,Iran,2,Māzandarān,,,Afra,,Asia/Tehran,0
+14928,en,AS,Asia,IR,Iran,6,Khuzestan,,,Lir,,Asia/Tehran,0
+18918,en,EU,Europe,CY,Cyprus,4,Ammochostos,,,Protaras,,Asia/Famagusta,1
+20939,en,AS,Asia,IR,Iran,4,West Azerbaijan Province,,,Post,,Asia/Tehran,0
+24711,en,AS,Asia,IR,Iran,5,Kermanshah Province,,,Aftab,,Asia/Tehran,0
+36040,en,AS,Asia,IR,Iran,13,Hamadan Province,,,Gostar,,Asia/Tehran,0
+39912,en,AS,Asia,IR,Iran,27,Golestan,,,Dadeh Owlum,,Asia/Tehran,0
+41486,en,AS,Asia,IR,Iran,0,Markazi,,,Maragheh,,Asia/Tehran,0
+41724,en,AS,Asia,IR,Iran,0,Markazi,,,Ara,,Asia/Tehran,0
+43558,en,AS,Asia,IR,Iran,8,Kerman,,,Chaman Rang,,Asia/Tehran,0
+44925,en,AS,Asia,IR,Iran,6,Khuzestan,,,Taha,,Asia/Tehran,0
+49518,en,AF,Africa,RW,Rwanda,,,,,,,Africa/Kigali,0
+49747,en,AF,Africa,SO,Somalia,BK,Bakool,,,Oddur,,Africa/Mogadishu,0
+51537,en,AF,Africa,SO,Somalia,,,,,,,Africa/Mogadishu,0
+53654,en,AF,Africa,SO,Somalia,BN,Banaadir,,,Mogadishu,,Africa/Mogadishu,0
+54225,en,AF,Africa,SO,Somalia,SH,Lower Shabeelle,,,Merca,,Africa/Mogadishu,0
+57289,en,AF,Africa,SO,Somalia,WO,Woqooyi Galbeed,,,Hargeisa,,Africa/Mogadishu,0
+57723,en,AF,Africa,SO,Somalia,JD,Middle Juba,,,Gurmeyso,,Africa/Mogadishu,0
+58994,en,AF,Africa,SO,Somalia,GE,Gedo,,,Garbahaarrey,,Africa/Mogadishu,0
+59611,en,AF,Africa,SO,Somalia,MU,Mudug,,,Gaalkacyo,,Africa/Mogadishu,0
+60928,en,AF,Africa,SO,Somalia,GA,Galguduud,,,Dusa Marreb,,Africa/Mogadishu,0
+63795,en,AF,Africa,SO,Somalia,TO,Togdheer,,,Burao,,Africa/Mogadishu,0
+63949,en,AF,Africa,SO,Somalia,JD,Middle Juba,,,Bu'aale,,Africa/Mogadishu,0
+64013,en,AF,Africa,SO,Somalia,BR,Bari,,,Bosaso,,Africa/Mogadishu,0
+64460,en,AF,Africa,SO,Somalia,HI,Hiiraan,,,Beledweyne,,Africa/Mogadishu,0
+64536,en,AF,Africa,SO,Somalia,BY,Bay,,,Baidoa,,Africa/Mogadishu,0
+66093,en,AS,Asia,IR,Iran,17,Kohgiluyeh and Boyer-Ahmad Province,,,Yasuj,,Asia/Tehran,0
+69426,en,AS,Asia,YE,Yemen,AB,Muhafazat Abyan,,,Zinjibar,,Asia/Aden,0
+69543,en,AS,Asia,YE,Yemen,,,,,,,Asia/Aden,0
+70224,en,AS,Asia,YE,Yemen,RA,Raymah,,,Ta`izz,,Asia/Aden,0
+71135,en,AS,Asia,YE,Yemen,HD,Muhafazat Hadramaout,,,Sana',,Asia/Aden,0
+71136,en,AS,Asia,YE,Yemen,HD,Muhafazat Hadramaout,,,Sana',,Asia/Aden,0
+71137,en,AS,Asia,YE,Yemen,SA,Amanat Alasimah,,,Sanaa,,Asia/Aden,0
+71490,en,AS,Asia,YE,Yemen,BA,Al Bayda,,,Rida`,,Asia/Aden,0
+73560,en,AS,Asia,YE,Yemen,LA,Laḩij,,,Lahij,,Asia/Aden,0
+74477,en,AS,Asia,YE,Yemen,IB,Ibb,,,Ibb,,Asia/Aden,0
+75337,en,AS,Asia,YE,Yemen,HJ,Ḩajjah,,,Hajjah,,Asia/Aden,0
+75427,en,AS,Asia,YE,Yemen,SU,Soqatra,,,Hadibu,,Asia/Aden,0
+76184,en,AS,Asia,YE,Yemen,DH,Dhamār,,,Dhamar,,Asia/Aden,0
+76933,en,AS,Asia,YE,Yemen,AM,Omran,,,Bayt Ghadir,,Asia/Aden,0
+77124,en,AS,Asia,YE,Yemen,JA,Al Jawf,,,Barat,,Asia/Aden,0
+77726,en,AS,Asia,YE,Yemen,SH,Shabwah,,,Ataq,,Asia/Aden,0
+77843,en,AS,Asia,YE,Yemen,HU,Al Hudaydah,,,As Salif,,Asia/Aden,0
+78751,en,AS,Asia,YE,Yemen,TA,Ta‘izz,,,Mocha,,Asia/Aden,0
+78754,en,AS,Asia,YE,Yemen,HD,Muhafazat Hadramaout,,,Mukalla,,Asia/Aden,0
+78977,en,AS,Asia,YE,Yemen,MW,Al Mahwit,,,Al Mahwit,,Asia/Aden,0
+79415,en,AS,Asia,YE,Yemen,HU,Al Hudaydah,,,Al Hudaydah,,Asia/Aden,0
+79700,en,AS,Asia,YE,Yemen,MR,Al Mahrah,,,Al Ghayḑah,,Asia/Aden,0
+80384,en,AS,Asia,YE,Yemen,DA,Aḑ Ḑāli‘,,,Dhale,,Asia/Aden,0
+81302,en,AF,Africa,LY,Libya,BU,Al Butnan,,,Tobruk,,Africa/Tripoli,0
+85026,en,AF,Africa,LY,Libya,JA,Al Jabal al Akhdar,,,Massah,,Africa/Tripoli,0
+87205,en,AF,Africa,LY,Libya,DR,Darnah,,,Darnah,,Africa/Tripoli,0
+88319,en,AF,Africa,LY,Libya,BA,Sha'biyat Banghazi,,,Benghazi,,Africa/Tripoli,0
+88386,en,AF,Africa,LY,Libya,BU,Al Butnan,,,Az Zawiyah,,Africa/Tripoli,0
+88562,en,AF,Africa,LY,Libya,KF,Al Kufrah,,,At Taj,,Africa/Tripoli,0
+88903,en,AF,Africa,LY,Libya,MJ,Al Marj,,,Al Marj,,Africa/Tripoli,0
+88962,en,AF,Africa,LY,Libya,KF,Al Kufrah,,,Al Jawf,,Africa/Tripoli,0
+89055,en,AF,Africa,LY,Libya,JA,Al Jabal al Akhdar,,,Al Bayda',,Africa/Tripoli,0
+89090,en,AF,Africa,LY,Libya,JA,Al Jabal al Akhdar,,,Al Abraq,,Africa/Tripoli,0
+89113,en,AF,Africa,LY,Libya,WA,Al Wahat,,,Ajdabiya,,Africa/Tripoli,0
+89570,en,AS,Asia,IQ,Iraq,DA,Duhok,,,Zakho,,Asia/Baghdad,0
+90150,en,AS,Asia,IQ,Iraq,SD,Salah ad Din,,,Tikrit,,Asia/Baghdad,0
+91419,en,AS,Asia,IQ,Iraq,BA,Basra,,,Qaryat Sayhan,,Asia/Baghdad,0
+91695,en,AS,Asia,IQ,Iraq,SD,Salah ad Din,,,,,Asia/Baghdad,0
+93540,en,AS,Asia,IQ,Iraq,MA,Maysan,,,Maysan,,Asia/Baghdad,0
+93940,en,AS,Asia,IQ,Iraq,BA,Basra,,,Madinah,,Asia/Baghdad,0
+94787,en,AS,Asia,IQ,Iraq,KI,Kirkuk,,,Kirkuk,,Asia/Baghdad,0
+94824,en,AS,Asia,IQ,Iraq,KA,Muhafazat Karbala',,,Karbala,,Asia/Baghdad,0
+95446,en,AS,Asia,IQ,Iraq,AR,Erbil,,,Erbil,,Asia/Baghdad,0
+96965,en,AS,Asia,IQ,Iraq,DI,Diyālá,,,Diyālá,,Asia/Baghdad,0
+96994,en,AS,Asia,IQ,Iraq,DA,Duhok,,,Duhok,,Asia/Baghdad,0
+97848,en,AS,Asia,IQ,Iraq,SU,Sulaymaniyah,,,Basere,,Asia/Baghdad,0
+97990,en,AS,Asia,IQ,Iraq,DI,Diyālá,,,Baqubah,,Asia/Baghdad,0
+98180,en,AS,Asia,IQ,Iraq,BG,Baghdad,,,,,Asia/Baghdad,0
+98182,en,AS,Asia,IQ,Iraq,BG,Baghdad,,,Baghdad,,Asia/Baghdad,0
+98229,en,AS,Asia,IQ,Iraq,BB,Muhafazat Babil,,,Madinat Babil,,Asia/Baghdad,0
+98245,en,AS,Asia,IQ,Iraq,BA,Basra,,,Az Zubayr,,Asia/Baghdad,0
+98463,en,AS,Asia,IQ,Iraq,SU,Sulaymaniyah,,,Sulaymaniyah,,Asia/Baghdad,0
+98717,en,AS,Asia,IQ,Iraq,AN,Al Anbar,,,Ramadi,,Asia/Baghdad,0
+98854,en,AS,Asia,IQ,Iraq,DQ,Dhi Qar,,,Nasiriyah,,Asia/Baghdad,0
+98860,en,AS,Asia,IQ,Iraq,NA,An Najaf,,,Najaf,,Asia/Baghdad,0
+98871,en,AS,Asia,IQ,Iraq,AR,Erbil,,,Qaryat 'Ayn Kawah,,Asia/Baghdad,0
+99072,en,AS,Asia,IQ,Iraq,NI,Nineveh,,,Mosul,,Asia/Baghdad,0
+99131,en,AS,Asia,IQ,Iraq,WA,Muhafazat Wasit,,,Kut,,Asia/Baghdad,0
+99237,en,AS,Asia,IQ,Iraq,,,,,,,Asia/Baghdad,0
+99308,en,AS,Asia,IQ,Iraq,AN,Al Anbar,,,'Ali al Ahmad,,Asia/Baghdad,0
+99347,en,AS,Asia,IQ,Iraq,BB,Muhafazat Babil,,,Al Hillah,,Asia/Baghdad,0
+99434,en,AS,Asia,IQ,Iraq,QA,Muhafazat al Qadisiyah,,,Nahiyat Ghammas,,Asia/Baghdad,0
+99532,en,AS,Asia,IQ,Iraq,BA,Basra,,,Basrah,,Asia/Baghdad,0
+99548,en,AS,Asia,IQ,Iraq,WA,Muhafazat Wasit,,,Al 'Aziziyah,,Asia/Baghdad,0
+99592,en,AS,Asia,IQ,Iraq,AN,Al Anbar,,,Al Anbar,,Asia/Baghdad,0
+99608,en,AS,Asia,IQ,Iraq,MA,Maysan,,,Amara,,Asia/Baghdad,0
+99738,en,AS,Asia,IQ,Iraq,QA,Muhafazat al Qadisiyah,,,'Afak,,Asia/Baghdad,0
+99762,en,AS,Asia,IQ,Iraq,QA,Muhafazat al Qadisiyah,,,Ad Diwaniyah,,Asia/Baghdad,0
